@@ -1,0 +1,114 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{Blaauw-2008,
+  Title                    = {Akt activation prevents the force drop induced by eccentric contractions in dystrophin-deficient skeletal muscle},
+  Author                   = {Blaauw, Bert and Mammucari, Cristina and Toniolo, Luana and Agatea, Lisa and Abraham, Reimar and Sandri, Marco and Reggiani, Carlo and Schiaffino, Stefano},
+  Journal                  = {Human Molecular Genetics},
+  Number                   = {23},
+  Pages                    = {3686--3696},
+  Pmid                     = {18753145},
+  Volume                   = {17},
+  Year                     = {2008},
+  Abstract                 = {Skeletal muscles of the mdx mouse, a model of Duchenne Muscular Dystrophy, show an excessive reduction in the maximal tetanic force following eccentric contractions. This specific sign of the susceptibility of dystrophin-deficient muscles to mechanical stress can be used as a quantitative test to measure the efficacy of therapeutic interventions. Using inducible transgenesis in mice, we show that when Akt activity is increased the force drop induced by eccentric contractions in mdx mice becomes similar to that of wild-type mice. This effect is not correlated with muscle hypertrophy and is not blocked by rapamycin treatment. The force drop induced by eccentric contractions is similar in skinned muscle fibers from mdx and Akt-mdx mice when stretch is applied directly to skinned fibers. However, skinned fibers isolated from mdx muscles exposed to eccentric contractions in vivo develop less isometric force than wild-type fibers and this force depression is completely prevented by Akt activation. These experiments indicate that the myofibrillar-cytoskeletal system of dystrophin-deficient muscle is highly susceptible to a damage caused by eccentric contraction when elongation is applied in vivo, and this damage can be prevented by Akt activation. Microarray and {PCR} analyses indicate that Akt activation induces up-regulation of genes coding for proteins associated with Z-disks and costameres, and for proteins with anti-oxidant or chaperone function. The protein levels of utrophin and dysferlin are also increased by Akt activation.},
+  Doi                      = {10.1093/hmg/ddn264},
+  File                     = {Blaauw_2008_Akt activation prevents the force drop induced by eccentric.pdf:C\:\\Users\\Jeffrey\\Desktop\\Bibliography\\JJW pdf articles\\Blaauw_2008_Akt activation prevents the force drop induced by eccentric.pdf:application/pdf},
+  ISSN                     = {1460-2083},
+  Language                 = {eng},
+  Month                    = dec
+}
+
+@Article{Goldstein-2010,
+  Title                    = {Mechanisms of muscle weakness in muscular dystrophy},
+  Author                   = {Goldstein, Jeffery A. and McNally, Elizabeth M.},
+  Journal                  = {The Journal of General Physiology},
+  Number                   = {1},
+  Pages                    = {29--34},
+  Pmid                     = {20584890},
+  Volume                   = {136},
+  Year                     = {2010},
+  Doi                      = {10.1085/jgp.201010436},
+  File                     = {Goldstein_2010_Mechanisms of muscle weakness in muscular dystrophy.pdf:C\:\\Users\\Jeffrey\\Desktop\\Bibliography\\JJW pdf articles\\Goldstein_2010_Mechanisms of muscle weakness in muscular dystrophy.pdf:application/pdf},
+  ISSN                     = {1540-7748},
+  Language                 = {eng},
+  Month                    = jul,
+  Pmcid                    = {PMC2894554}
+}
+
+@Article{Ioannidis-2011,
+  Title                    = {More time for research: Fund people not projects},
+  Author                   = {Ioannidis, John P. A.},
+  Journal                  = {Nature},
+  Number                   = {7366},
+  Pages                    = {529--531},
+  Volume                   = {477},
+  Year                     = {2011},
+  __markedentry            = {[Jeffrey:6]},
+  Abstract                 = {John P. A. Ioannidis proposes ways to save scientists from spending all their time writing grants.},
+  Copyright                = {Â© 2011 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+  Doi                      = {10.1038/477529a},
+  File                     = {Ioannidis_2011_More time for research - Fund people not projects.pdf:C\:\\Users\\Jeffrey\\Desktop\\Bibliography\\JJW pdf articles\\Ioannidis_2011_More time for research - Fund people not projects.pdf:application/pdf},
+  ISSN                     = {0028-0836},
+  Language                 = {en},
+  Month                    = sep,
+  Owner                    = {Jeffrey},
+  Shorttitle               = {More time for research},
+  Timestamp                = {2015.02.05},
+  Url                      = {http://www.nature.com.ezp-prod1.hul.harvard.edu/nature/journal/v477/n7366/full/477529a.html},
+  Urldate                  = {2014-08-23}
+}
+
+@Article{Lassche-2013,
+  Title                    = {Sarcomeric dysfunction contributes to muscle weakness in facioscapulohumeral muscular dystrophy},
+  Author                   = {Lassche, Saskia and Stienen, Ger J. M. and Irving, Tom C. and van der Maarel, SilvÃ¨re M. and Voermans, Nicol C. and Padberg, George W. and Granzier, Henk and van Engelen, Baziel G. M. and Ottenheijm, Coen A. C.},
+  Journal                  = {Neurology},
+  Number                   = {8},
+  Pages                    = {733--737},
+  Pmid                     = {23365058},
+  Volume                   = {80},
+  Year                     = {2013},
+  Abstract                 = {{OBJECTIVE}: To investigate whether sarcomeric dysfunction contributes to muscle weakness in facioscapulohumeral muscular dystrophy ({FSHD}).
+{METHODS}: Sarcomeric function was evaluated by contractile studies on demembranated single muscle fibers obtained from quadriceps muscle biopsies of 4 patients with {FSHD} and 4 healthy controls. The sarcomere length dependency of force was determined together with measurements of thin filament length using immunofluorescence confocal scanning laser microscopy. X-ray diffraction techniques were used to study myofilament lattice spacing.
+{RESULTS}: {FSHD} muscle fibers produced only 70\% of active force compared to healthy controls, a reduction which was exclusive to type {II} muscle fibers. Changes in force were not due to changes in thin filament length or sarcomere length. Passive force was increased 5- to 12-fold in both fiber types, with increased calcium sensitivity of force generation and decreased myofilament lattice spacing, indicating compensation by the sarcomeric protein titin.
+{CONCLUSIONS}: We have demonstrated a reduction in sarcomeric force in type {II} {FSHD} muscle fibers, and suggest compensatory mechanisms through titin stiffening. Based on these findings, we propose that sarcomeric dysfunction plays a critical role in the development of muscle weakness in {FSHD}.},
+  Doi                      = {10.1212/WNL.0b013e318282513b},
+  File                     = {Lassche_2013_Sarcomeric dysfunction contributes to muscle weakness in.pdf:C\:\\Users\\Jeffrey\\Desktop\\Bibliography\\JJW pdf articles\\Lassche_2013_Sarcomeric dysfunction contributes to muscle weakness in.pdf:application/pdf},
+  ISSN                     = {1526-632X},
+  Language                 = {eng},
+  Month                    = feb,
+  Pmcid                    = {PMC3589299}
+}
+
+@Article{Menazza-2010,
+  Title                    = {Oxidative stress by monoamine oxidases is causally involved in myofiber damage in muscular dystrophy},
+  Author                   = {Menazza, Sara and Blaauw, Bert and Tiepolo, Tania and Toniolo, Luana and Braghetta, Paola and Spolaore, Barbara and Reggiani, Carlo and Di Lisa, Fabio and Bonaldo, Paolo and Canton, Marcella},
+  Journal                  = {Human Molecular Genetics},
+  Number                   = {21},
+  Pages                    = {4207--4215},
+  Pmid                     = {20716577},
+  Volume                   = {19},
+  Year                     = {2010},
+  Abstract                 = {Several studies documented the key role of oxidative stress and abnormal production of reactive oxygen species ({ROS}) in the pathophysiology of muscular dystrophies ({MDs}). The sources of {ROS}, however, are still controversial as well as their major molecular targets. This study investigated whether {ROS} produced in mitochondria by monoamine oxidase ({MAO}) contributes to {MD} pathogenesis. Pargyline, an {MAO} inhibitor, reduced {ROS} accumulation along with a beneficial effect on the dystrophic phenotype of Col6a1(-/-) mice, a model of Bethlem myopathy and Ullrich congenital {MD}, and mdx mice, a model of Duchenne {MD}. Based on our previous observations on oxidative damage of myofibrillar proteins in heart failure, we hypothesized that {MAO}-dependent {ROS} might impair contractile function in dystrophic muscles. Indeed, oxidation of myofibrillar proteins, as probed by formation of disulphide cross-bridges in tropomyosin, was detected in both Col6a1(-/-) and mdx muscles. Notably, pargyline significantly reduced myofiber apoptosis and ameliorated muscle strength in Col6a1(-/-) mice. This study demonstrates a novel and determinant role of {MAO} in {MDs}, adding evidence of the pivotal role of mitochondria and suggesting a therapeutic potential for {MAO} inhibition.},
+  Doi                      = {10.1093/hmg/ddq339},
+  File                     = {Menazza_2010_Oxidative stress by monoamine oxidases is causally involved2.pdf:C\:\\Users\\Jeffrey\\Desktop\\Bibliography\\JJW pdf articles\\Menazza_2010_Oxidative stress by monoamine oxidases is causally involved2.pdf:application/pdf},
+  ISSN                     = {1460-2083},
+  Keywords                 = {{ROS}},
+  Language                 = {eng},
+  Month                    = nov
+}
+
+@Book{Woledge-1985,
+  Title                    = {Energetic aspects of muscle contraction},
+  Author                   = {Woledge, R C and Curtin, N A and Homsher, E},
+  Publisher                = {Academic Press},
+  Year                     = {1985},
+
+  Address                  = {London},
+
+  __markedentry            = {[Jeffrey:6]},
+  File                     = {Woledge_1985_Energetic aspects of muscle contraction.pdf:C\:\\Users\\Jeffrey\\Desktop\\Bibliography\\JJW pdf articles\\Woledge_1985_Energetic aspects of muscle contraction.pdf:application/pdf},
+  Owner                    = {Jeffrey},
+  Timestamp                = {2015.02.05}
+}
+
